@@ -1,4 +1,4 @@
-# Gemini AI Chatbot Web App
+# ChatBubble- AI Chatbot Web App
 
 A stunning, responsive chatbot web application powered by Google Gemini AI, featuring file upload and emoji support.
 
